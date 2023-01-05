@@ -76,3 +76,5 @@ group :test do
 end
 
 gem "ruby-lsp", "~> 0.3.7", :group => :development
+
+gem "devise"
